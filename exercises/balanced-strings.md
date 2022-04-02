@@ -40,3 +40,7 @@ It means that if the second character preceding the current character in the asc
 
 ![Tableau de test](https://user-images.githubusercontent.com/72169834/161377828-2ed0d5c1-7be0-490c-a6f1-b04ab1f985ae.png)
 
+However we already have this tests so we don’t add some tests at this moment
+
+4. We run a PIT mutation test and we reach a 100% score of mutation coverage with 12 mutations killed so it’s useless to add some cases
+
